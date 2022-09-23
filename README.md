@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleg (Belorussians say Aleh)
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming, and have been doing it from childhood (VB, Delphi, MQL4, Java (some projects)).
 - 🌱 I’m currently learning Python, English (B2 so far), frameworks. I want to be able create many sorts of things.
 - 💞️ I’m looking to collaborate on IT companies.
 - 📫 How to reach me: workinplus@yandex.ru, https://www.linkedin.com/in/aleh-rynh/
